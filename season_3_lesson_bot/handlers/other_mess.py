@@ -1,6 +1,6 @@
 from aiogram import Router , types
 # from aiogram.filters import Command
-# from season_3_lesson_1.main import bot
+# from season_3_lesson_bot.main import bot
 
 echo_router = Router()
 @echo_router.message()
